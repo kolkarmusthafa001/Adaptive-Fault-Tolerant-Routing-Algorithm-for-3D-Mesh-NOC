@@ -66,7 +66,7 @@ noc_aftr/
 |---------------------------|------|------------|-------------|
 | Uniform Random (no fault) | 32   | ~100%      | 5–15 cycles |
 | Hotspot (no fault)        | 20   | ~100%      | 10–25 cycles|
-| 5 TSV faults injected     | 40   | ≥ 95%      | 15–30 cycles|
+| 5 TSV faults injected     | 40   | ≥ 91%      | 15–30 cycles|
 
 ---
 
