@@ -238,7 +238,7 @@ Key references used in this project:
 4. Pavlidis & Friedman — *3-D Topologies for Networks-on-Chip*, IEEE TVLSI 2007
 5. McKeown — *The iSLIP Scheduling Algorithm*, IEEE/ACM Trans. Networking 1999
 
-> Full reference list available in [`docs/project_report.pdf`](docs/project_report.pdf)
+
 
 ---
 
@@ -249,7 +249,7 @@ B.Tech, Electronics & Communication Engineering
 RGUKT RK Valley, Kadapa, Andhra Pradesh  
 
 **Project Guide:** Mr. B. Madhan Mohan, Assistant Professor, ECE  
-**HOD:** Dr. B. V. Sudhakar Reddy  
+ 
 
 ---
 
